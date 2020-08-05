@@ -1,6 +1,6 @@
-# flutterapp
+# Demo
 
-flutter app 
+![Demo](https://i.imgur.com/Nk7Haud.gif)
 
 ## Getting Started
 
