@@ -1,7 +1,6 @@
-# flutterapp
+# Demo
 
-A new Flutter application.
-
+![Demo](https://i.imgur.com/vWHgnyP.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
